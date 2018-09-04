@@ -1,0 +1,29 @@
+[[repository]]
+name = "Data logger (ROS package for data collection)"
+githubName = "div_datalogger"
+description = "This ROS package has been developed to collect data from 1) a Hokuyo lidar (20 Hz), 2) a Phidgets IMU (250 Hz), 3) a camera (~20 fps), 4) a GPS sensor (1 Hz), and 5) a flag button. In the DIV project, this data logger was used to collect data on road. A pedestrian wore the equipment and the overtaking manoeuvres of vehicles were collected."
+authors = ["Gabriele Panero", "Alexander Rasch", "Christian-Nils Åkerberg Boda"]
+
+[[repository]]
+name = "Data logger (web app)"
+githubName = "div_datalogger_webapp"
+description = "This is the web interface that runs on the data logger. This web interface allows any devices (i.e. computers or smartphones) that is connected to the RPi running ROS to control the recording (i.e. start/stop), to check if any errors are present, and to visualize in real-time the data from the Phidgets IMU and the Hokuyo lidar."
+authors = ["Christian-Nils Åkerberg Boda", "Alexander Rasch", "Gabriele Panero"]
+
+[[repository]]
+name = "Modified OpenDS Simulator implementing safety systems"
+githubName = "DIV_OpenDSSafetySystems"
+description = "This modified OpenDS enables the researchers to include safety systems based on forward radar. It is possible to add more sensors and functionalities using the classes beneath se.christian-nils."
+authors = ["Christian-Nils Åkerberg Boda"]
+
+[[repository]]
+name = "Modified OpenDS Analyzer"
+githubName = "DIV_OpenDSNewAnalyzer"
+description = "The OpenDS Analyzer has been modified to replay the data including other road users (such as cyclists, pedestrians, or other vehicles). Additionally, it is possible to start the analyzer from the command line including the data file as argument in order to visualize the data."
+authors = ["Alexander Rasch", "Christian-Nils Åkerberg Boda"]
+
+[[repository]]
+name = "OpenDS Driving Task GUI"
+githubName = "DIV_OpenDSDrivingTaskGenerator"
+description = "This is a GUI developed with MATLAB to generate OpenDS driving tasks. This was an attempt to make the creation of driving tasks easier. However, it would benefit to be redone from scratch using another programming language to make it accessible to anyone."
+authors = ["Christian-Nils Åkerberg Boda"]

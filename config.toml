@@ -1,0 +1,59 @@
+title = "DIV Project"
+baseURL = "http://divproject.eu/"
+languageCode = "en-us"
+relativeURLs = false
+theme = "casper"
+
+[params]
+  description = "The DIV (Drivers in Interaction with Vulnerable road users) project provides new knowledge about driver behaviour when interacting with vulnerable road users (e.g. cyclists and pedestrians). This project, that is the fruit of the collaboration between Toyota, Autoliv, and Chalmers University, was started in 2015 and will be carried out until the end of 2019. You will find more information about the project and its results and deliverables by using the menu located at the top-right of this page."
+  logo = "images/Div_2_transparent.png"
+  noauthor = true
+  githubName = "RoadUserInteraction"
+  RSSLink = false
+
+[[menu.main]]
+  name   = "Home"
+  url    = "/"
+  weight = 10
+
+[[menu.main]]
+  name   = "About the project"
+  url    = "/about"
+  identifier = "about"
+  weight = 9
+
+[[menu.main]]
+  name   = "Members"
+  url    = "/members"
+  identifier = "members"
+  weight = 8
+
+[[menu.publication]]
+name   = "Journal papers"
+url    = "/publications/journalPapers"
+identifier = "journal papers"
+weight = 10
+
+[[menu.publication]]
+name   = "Conference papers"
+url    = "/publications/conferencePapers"
+identifier = "conference papers"
+weight = 9
+
+[[menu.publication]]
+name   = "Theses"
+url    = "/publications/theses"
+identifier = "theses"
+weight = 8
+
+[[menu.deliverable]]
+name   = "OpenDS Documentation"
+url    = "http://docs.divproject.eu"
+identifier = "OpenDS documentation"
+weight = 9
+
+[[menu.deliverable]]
+name   = "Software"
+url    = "/repositories"
+identifier = "list of repositories"
+weight = 8
