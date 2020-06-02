@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on DIV Project</title>
-    <link>http://divproject.eu/publications/</link>
+    <link>https://ruvigroup.github.io/DIV/publications/</link>
     <description>Recent content in Publications on DIV Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 13:30:00 +0200</lastBuildDate>
     
-	<atom:link href="http://divproject.eu/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruvigroup.github.io/DIV/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference papers</title>
-      <link>http://divproject.eu/publications/conferencepapers/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/conferencepapers/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/conferencepapers/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/conferencepapers/</guid>
       <description>Dozza, M. B., Christian-Nils; Thalya, Prateek; Jaber, Leila; Lubbe, Nils (2017). How do Drivers Negotiate Intersections with Pedestrians? Fractional Factorial Design in an Open-source Driving Simulator. RSS2017 Road Safety &amp;amp; Simulation International Conference, Den Haag, The Netherlands. (Read here&amp;hellip;)</description>
     </item>
     
     <item>
       <title>Journal papers</title>
-      <link>http://divproject.eu/publications/journalpapers/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/journalpapers/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/journalpapers/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/journalpapers/</guid>
       <description>Boda, C.-N., et al. (2018). &amp;ldquo;Modelling how drivers respond to a bicyclist crossing their path at an intersection: How do test track and driving simulator compare?&amp;rdquo; Accident Analysis &amp;amp; Prevention 111: 238-250. (Read here&amp;hellip;)</description>
     </item>
     
     <item>
       <title>Theses</title>
-      <link>http://divproject.eu/publications/theses/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/theses/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/theses/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/theses/</guid>
       <description>Licentiate thesis Boda, C.-N. (2017). Driver interaction with vulnerable road users: Understanding and modelling driver behaviour for the design and evaluation of intelligent safety systems. Chalmers University. (Read here&amp;hellip;)</description>
     </item>
     

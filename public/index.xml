@@ -1,67 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIV Project</title>
-    <link>http://divproject.eu/</link>
+    <link>https://ruvigroup.github.io/DIV/</link>
     <description>Recent content on DIV Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 13:30:00 +0200</lastBuildDate>
     
-	<atom:link href="http://divproject.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruvigroup.github.io/DIV/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference papers</title>
-      <link>http://divproject.eu/publications/conferencepapers/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/conferencepapers/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/conferencepapers/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/conferencepapers/</guid>
       <description>Dozza, M. B., Christian-Nils; Thalya, Prateek; Jaber, Leila; Lubbe, Nils (2017). How do Drivers Negotiate Intersections with Pedestrians? Fractional Factorial Design in an Open-source Driving Simulator. RSS2017 Road Safety &amp;amp; Simulation International Conference, Den Haag, The Netherlands. (Read here&amp;hellip;)</description>
     </item>
     
     <item>
       <title>Journal papers</title>
-      <link>http://divproject.eu/publications/journalpapers/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/journalpapers/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/journalpapers/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/journalpapers/</guid>
       <description>Boda, C.-N., et al. (2018). &amp;ldquo;Modelling how drivers respond to a bicyclist crossing their path at an intersection: How do test track and driving simulator compare?&amp;rdquo; Accident Analysis &amp;amp; Prevention 111: 238-250. (Read here&amp;hellip;)</description>
     </item>
     
     <item>
       <title>Theses</title>
-      <link>http://divproject.eu/publications/theses/</link>
+      <link>https://ruvigroup.github.io/DIV/publications/theses/</link>
       <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://divproject.eu/publications/theses/</guid>
+      <guid>https://ruvigroup.github.io/DIV/publications/theses/</guid>
       <description>Licentiate thesis Boda, C.-N. (2017). Driver interaction with vulnerable road users: Understanding and modelling driver behaviour for the design and evaluation of intelligent safety systems. Chalmers University. (Read here&amp;hellip;)</description>
     </item>
     
     <item>
       <title>About the DIV project</title>
-      <link>http://divproject.eu/about/</link>
+      <link>https://ruvigroup.github.io/DIV/about/</link>
       <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
       
-      <guid>http://divproject.eu/about/</guid>
+      <guid>https://ruvigroup.github.io/DIV/about/</guid>
       <description>Every year, vulnerable road users (VRU: cyclists and pedestrians) account for about 28% of all road fatalities in Europe. Because of their intrinsic vulnerability, cyclists and pedestrians are especially at risk of severe injuries and death in conflicts with motorized vehicles Interaction between VRU and motorized vehicles is particularly critical in crossing scenarios (Dozza and Werneke, 2014) where the trajectory of a motorist and a VRU intersect, as well as in longitudinal scenarios when a motorist may overtake a slower VRU (DaCoTa-Project, 2011).</description>
     </item>
     
     <item>
       <title>List of repositories</title>
-      <link>http://divproject.eu/repositories/</link>
+      <link>https://ruvigroup.github.io/DIV/repositories/</link>
       <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
       
-      <guid>http://divproject.eu/repositories/</guid>
+      <guid>https://ruvigroup.github.io/DIV/repositories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>http://divproject.eu/members/</link>
+      <link>https://ruvigroup.github.io/DIV/members/</link>
       <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
       
-      <guid>http://divproject.eu/members/</guid>
+      <guid>https://ruvigroup.github.io/DIV/members/</guid>
       <description></description>
     </item>
     
