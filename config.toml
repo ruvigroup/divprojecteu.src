@@ -1,5 +1,5 @@
 title = "DIV Project"
-baseURL = "http://divproject.eu/"
+baseURL = "https://ruvigroup.github.io/DIV"
 languageCode = "en-us"
 relativeURLs = false
 theme = "casper"
