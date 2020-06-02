@@ -1,0 +1,42 @@
+<div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.main}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
+            	<a href="{{.URL}}">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+        <h3>Publications</h3>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.publication}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "publication" .) ($currentNode.HasMenuCurrent "publication" .)}} nav-current{{end}}" role="presentation">
+              <a href="{{.URL}}">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+        <h3>Deliverables</h3>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.deliverable}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "deliverable" .) ($currentNode.HasMenuCurrent "deliverable" .)}} nav-current{{end}}" role="presentation">
+              <a href="{{.URL}}">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+    </ul>
+
+    {{ if .Site.Params.RSSLink}}
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a></div>
+    {{end}}
+</div>
+<span class="nav-cover"></span>
